@@ -1,6 +1,6 @@
 # Notification API
 
-This is a simple FCM (Google Firebase CLoud Messaging) Push Notifications API application for sending notifications to users. This REST api's are built using Node.js, so that it can be used in any platform.
+This is a simple FCM (Google Firebase Cloud Messaging) Push Notifications API application for sending notifications to users. This REST api's are built using Node.js, so that it can be used in any platform.
 
 The code consists of two parts:
 
@@ -16,6 +16,7 @@ In this application, I have used the following technologies:
   - `MongoDB` (To store the user's device token! You can store this in the user model in your application)
   - `Mongoose` (To interact with MongoDB)
   - `Firebase Admin SDK` (To connect to Firebase and send notifications)
+  - `Typescript` (To write type safe code)
 
 - `FRONTEND` (notification-api-frontend) : This is a simple web application to receive notifications. You can use this as a reference to build your own client/admin application.
 
