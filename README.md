@@ -28,7 +28,7 @@ In this application, I have used the following technologies:
 # Firebase Setup
 
 - Create a Firebase project
-- Enable the Cloud Messaging service in the Firebase roject
+- Enable the Cloud Messaging service in the Firebase project
 - Get the SDK configuration file (firebaseConfig) from the Firebase project settings
 - Generate a VAPID key from the Firebase project settings by clicking on the "Generate Key" button under the "Web Push Certificates" section under the "Cloud Messaging" tab.
 
